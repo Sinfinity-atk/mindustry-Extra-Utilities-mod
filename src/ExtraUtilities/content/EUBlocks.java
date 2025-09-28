@@ -186,8 +186,8 @@ public class EUBlocks {
         }};
         quantumExplosion = new ExplodeDrill("quantum-explosion"){{
             if(!hardMod) {
-                requirements(Category.production, with(Items.thorium, 600, Items.silicon, 800, EUItems.lightninAlloy, 200));
-                drillTime = 60f * 3f;
+                requirements(Category.production, with(Items.thorium, 1, Items.silicon, 800, EUItems.lightninAlloy, 200));
+                drillTime = 10;
             } else {
                 requirements(Category.production, with(Items.thorium, 800, Items.silicon, 1000, EUItems.lightninAlloy, 240));
                 drillTime = 60 * 4f;
