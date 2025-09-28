@@ -16,7 +16,7 @@
 - Steam Workshop : https://steamcommunity.com/sharedfiles/filedetails/?id=2850241527
 - Due to my limited English level, If there are any grammar problems in the mod, please feedback to my mailbox:gyrweng@foxmail.com, I will treat every suggestion sincerely.
 
-- EU mod server : `cn.mindustry.ink`
+- EU mod server : `cn.mindustry.ink chease`
 - EU & NH sever : `EH.mindustry.ink`
 - To get NH mod : https://github.com/Yuria-Shikibe/NewHorizonMod
 
@@ -52,3 +52,4 @@
 - Abilities
 
 - Status Effects
+
